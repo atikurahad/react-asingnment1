@@ -1,8 +1,14 @@
 .about-dev{
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr 1fr;
     align-items: center;
 }
 .dev-speech{
     color: rgb(28, 76, 60);
+}
+.about{
+    font-size: 24 px;
+    color: aliceblue;
+    font-weight: 600;
+    text-align: center;
 }

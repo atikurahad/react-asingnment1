@@ -1,0 +1,8 @@
+.about-dev{
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+}
+.dev-speech{
+    color: rgb(28, 76, 60);
+}

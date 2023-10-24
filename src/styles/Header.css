@@ -1,7 +1,7 @@
 .head{
    
     display: flex;
-    background-color: gray;
+    background-color: aqua;
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
