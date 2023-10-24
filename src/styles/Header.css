@@ -1,0 +1,19 @@
+.head{
+   
+    display: flex;
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 12px;
+}
+.head-link{
+    font-size: 18px ;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-right: 10px;
+}
+.head-link:hover{
+    background: #000;
+    color: gold;
+}
