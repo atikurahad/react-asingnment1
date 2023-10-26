@@ -4,7 +4,7 @@ import '../styles/Service.css'
 const Service = () => {
   return (
     <div>
-      <h1 className="title">OUR SERVICES</h1>
+      <h1 className="title">Our Services</h1>
       <p className="desc">
         {" "}
         Did you know that 75% of opinions on website credibility comes from
