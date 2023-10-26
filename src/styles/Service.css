@@ -1,0 +1,10 @@
+.title{
+    text-align: center;
+    color: rgb(21, 15, 15);
+    padding: 8px;
+}
+.desc{
+    /* font-size: 18px; */
+    font-family: fantasy;
+    margin: 25px;
+}

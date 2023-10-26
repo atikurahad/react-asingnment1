@@ -4,7 +4,8 @@ import "../styles/About.css";
 const About = () => {
   return (
     <>
-      <h1 id="about"> About Us </h1>
+    <div className="container">
+      <h1 className="title"> About Us </h1>
       <section className="about-dev">
         <img src="https://www.developerquotes.com.au/wp-content/uploads/2019/10/about-sub-pic-1.png"></img>
         <article>
@@ -18,6 +19,7 @@ const About = () => {
           </p>
         </article>
       </section>
+      </div>
     </>
   );
 };
